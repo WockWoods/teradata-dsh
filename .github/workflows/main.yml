@@ -1,4 +1,4 @@
-name: deploy programLaMasia
+name: deploy neymarjunior
 
 on:
   push:
