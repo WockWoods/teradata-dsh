@@ -1,4 +1,4 @@
-name: deploy neymarjunior
+name: deploy xabialonso
 
 on:
   push:
